@@ -93,3 +93,54 @@ header.sticky nav ul li a{
 header.sticky nav ul li a:hover, nav ul li a:hover{
     color: #ff5a01;
 }
+/*Hero Section*/
+
+.banner{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.3)), url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.banner .content{
+    max-width: 900px;
+    text-align: center;
+}
+
+.banner .content h2{
+    font-size: 5em;
+    color: #fff;
+}
+
+.banner .content h3{
+    font-size: 3em;
+    color: #fff;
+}
+
+.banner .content p{
+    font-size: 1em;
+    color: #fff;
+}
+
+.btn{
+    font-size: 1em;
+    color: #fff;
+    background: #ff5a01;
+    display: inline-block;
+    padding: 10px 30px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0.5s;
+}
+
+.btn:hover{
+ letter-spacing: 6px;
+ background: #BB1620;   
+}
