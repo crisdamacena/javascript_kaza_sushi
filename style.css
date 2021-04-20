@@ -1,0 +1,95 @@
+/*General*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+p{
+    font-weight: 300;
+    color: #111;
+}
+
+body{
+    min-height: 1000px;
+}
+/*Main Menu*/
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 40px 100px;
+    z-index: 10000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.5s;
+}
+
+header.sticky{
+    background: #fff;
+    padding: 10px 100px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+
+}
+
+header .logo{
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+header.sticky .logo{
+    color: #000;
+}
+
+header .logo span{
+    text-decoration: none;
+    color: #ff5a01;
+    font-weight: 900;
+}
+header .logo img{
+    max-width: 120px;
+}
+
+header.sticky .logo img{
+    max-width: 50px;
+}
+
+header nav{
+    position: relative;
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 30px;
+    text-transform: uppercase;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+}
+
+header.sticky nav ul li a{
+    color: #000;
+}
+
+header.sticky nav ul li a:hover, nav ul li a:hover{
+    color: #ff5a01;
+}

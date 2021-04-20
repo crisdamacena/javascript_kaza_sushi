@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaza Sushi</title>
+    <link href="favicon.ico" rel="shortcut icon"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <a href="#banner" class="logo"><img src="2.png">Kaza <span>Sushi</span></a>
+        <nav>
+            <ul>
+                <li><a href="#banner">Início</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#staff">Equipe</a></li>
+                <li><a href="#testimonials">Clientes</a></li>
+                <li><a href="#reservation">Reservas</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <script type="text/javascript">
+        window.addEventListener('scroll', function(){
+            const header = document.querySelector('header');
+            header.classList.toggle("sticky", window.scrollY > 0);
+        });
+    </script>
+</body>
+</html>
