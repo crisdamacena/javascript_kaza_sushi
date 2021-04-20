@@ -144,3 +144,48 @@ header.sticky nav ul li a:hover, nav ul li a:hover{
  letter-spacing: 6px;
  background: #BB1620;   
 }
+/*About Us*/
+
+section{
+    padding: 100px;
+
+}
+
+.row{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.row .col50{
+    position: relative;
+    width: 48%;
+}
+
+.titleText{
+    color: #111;
+    font-size: 2em;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.titleText span{
+    color: #ff5a01;
+    font-size: 1.0em;
+    font-weight: 700;
+}
+
+.img-box .row .col50{
+    position: relative;
+    width: 100%;
+    min-height: 300px;
+}
+
+.img-box .row .col50 img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    object-fit: cover;
+}
