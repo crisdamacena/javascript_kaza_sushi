@@ -1,6 +1,7 @@
 <h1 align="center">Kaza Sushi Responsive Website</h1>
 
-<p>This is a responsive website inspired by Md Ansari Online Tutorials on YouTube</p>
+<p>This is a responsive website inspired</p>
+<small>by Md Ansari Online Tutorials on YouTube</small>
 <p>I want to practice my knowledge in HTML5, CSS3 and JavaScript</p>
 
 ### Features
@@ -15,3 +16,7 @@
 <h1 align="center">
   <img alt="Kaza Sushi" src="home_website.png" />
 </h1>
+
+<h2>
+  <a href="http://kazasushi.cf/">DEMO VERSION</a>
+</h2>
