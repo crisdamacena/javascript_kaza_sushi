@@ -13,10 +13,12 @@
 - [ ] Contact Form Backend
 - [ ] Reservation Page
 
+<h2>
+  <a href="http://kazasushi.cf/">DEMO VERSION</a>
+</h2>
+
 <h1 align="center">
   <img alt="Kaza Sushi" src="home_website.png" />
 </h1>
 
-<h2>
-  <a href="http://kazasushi.cf/">DEMO VERSION</a>
-</h2>
+
