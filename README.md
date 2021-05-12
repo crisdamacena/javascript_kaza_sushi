@@ -10,7 +10,7 @@
 - [x] CSS3
 - [x] Sticky Menu JavaScript
 - [ ] SCSS
-- [ ] Contact Form Backend
+- [ ] Contact Form Back-end
 - [ ] Reservation Page
 
 <h2>
