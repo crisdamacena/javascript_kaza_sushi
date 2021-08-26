@@ -14,7 +14,7 @@
 - [ ] Reservation Page
 
 <h2>
-  <a href="https://crisdamacena.com/demo/kazasushi/">DEMO VERSION</a>
+  <a href="http://kazasushi.cf/">DEMO VERSION</a>
 </h2>
 
 <h1 align="center">
