@@ -1,8 +1,8 @@
-<h1 align="center">Kaza Sushi Responsive Website</h1>
+<h1 align="center">Kaza Sushi Website Responsivo</h1>
 
-<p>This is a responsive website</p>
-<p>inspired by Md Ansari Online Tutorials on YouTube</p>
-<p>I want to practice my knowledge in HTML5, CSS3 and JavaScript</p>
+<p>Este é um site responsivo</p>
+<p>inspirado em projeto do canal Md Ansari Online Tutorials no YouTube</p>
+<p>O objetivo é aplicar os conceitos de HTML5, CSS3 and Vanilla JavaScript</p>
 
 ### Features
 
@@ -10,11 +10,11 @@
 - [x] CSS3
 - [x] Sticky Menu JavaScript
 - [ ] SCSS
-- [ ] Contact Form Back-end
-- [ ] Reservation Page
+- [ ] Formulário de contato
+- [ ] Página de reservas
 
 <h2>
-  <a href="https://crisdamacena.com/demo/kazasushi/">DEMO VERSION</a>
+  <a href="http://crisdamacena.com/javascript_kaza_sushi/">DEMO VERSION</a>
 </h2>
 
 <h1 align="center">
