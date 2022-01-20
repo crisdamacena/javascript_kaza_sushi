@@ -1,7 +1,6 @@
 <h1 align="center">Kaza Sushi Website Responsivo</h1>
 
-<p>Este é um site responsivo</p>
-<p>inspirado em projeto do canal Md Ansari Online Tutorials no YouTube</p>
+<p>Este é um site responsivo inspirado em projeto do canal Md Ansari Online Tutorials no YouTube</p>
 <p>O objetivo é aplicar os conceitos de HTML5, CSS3 and Vanilla JavaScript</p>
 
 ### Features
